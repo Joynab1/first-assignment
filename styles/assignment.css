@@ -3,7 +3,7 @@
 }
 
 /* header styles */
-.header-all {
+.banner {
     background-image: url("../images/banner/banner3.png");
     background-size: cover;
     height: 100vh;
@@ -43,15 +43,18 @@
     gap: 30px;
     padding: 100px;
 }
-.first-section-info{
+
+.first-section-info {
     padding: 200px;
 }
+
 .first-section-header {
     font-size: 30px;
     font-weight: 700;
     font-family: sans-serif;
     margin-bottom: 25px;
 }
+
 .first-section-description {
     font-size: 16px;
     font-weight: 300;
@@ -59,10 +62,53 @@
     margin-bottom: 25px;
     color: rgb(57, 55, 55);
 }
-ul li{
+
+ul li {
     font-size: 15px;
     font-weight: 300;
     font-family: serif;
     color: rgb(57, 55, 55);
     list-style-type: none;
+}
+
+/* plans styles */
+.plans {
+    padding: 40px 150px;
+}
+
+.plans-header {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    font-family: sans-serif;
+    margin-bottom: 50px;
+}
+
+.plans-div {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    text-align: center;
+}
+
+.web {padding: 50px;}
+.web img{margin-bottom: 25px;}
+.java {padding: 50px;}
+.habit {padding: 50px;}
+.ecom {padding: 50px;}
+.plans-img{
+    margin-bottom: 20px;
+}
+.plan-subtitle{
+    margin-bottom: 20px;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.plan-description{
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: sans-serif; 
+    color: grey;
 }
