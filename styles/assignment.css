@@ -72,6 +72,10 @@ ul li {
     color: rgb(57, 55, 55);
     list-style-type: none;
 }
+ul li .fa-solid.fa-check{
+    font-family: Font Awesome 6 free;
+    color: green;
+}
 
 /* plans styles */
 .plans {
