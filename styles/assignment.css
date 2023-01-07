@@ -8,15 +8,16 @@
     background-size: cover;
     height: 100vh;
     justify-content: center;
-    text-align: left;
-    padding: 100px 100px 50px 50px;
+    text-align: right;
+    padding: 100px 200px;
 }
 
 .header-title {
-    font-size: 45px;
-    font-weight: 700;
+    font-size: 50px;
+    font-weight: 800;
     margin-bottom: 25px;
     color: rgb(247, 245, 245);
+    padding-left: 500px;
 }
 
 .header-description {
@@ -25,6 +26,7 @@
     font-weight: 500;
     font-family: sans-serif;
     color: rgb(247, 245, 245);
+    padding-left: 500px;
 }
 
 .btn-primary {
@@ -135,7 +137,7 @@ ul li {
     height: 300px;
     width: 900px;
     border: 1px solid black;
-    margin-left: 200px;
+    margin-left: 250px;
     margin-right: 200px;
     margin-bottom: 100px;
     padding: 50px;
