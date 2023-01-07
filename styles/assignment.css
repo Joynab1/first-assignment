@@ -89,45 +89,36 @@ ul li .fa-solid.fa-check{
     font-family: sans-serif;
     margin-bottom: 50px;
 }
-
 .plans-div {
     display: flex;
     gap: 24px;
     justify-content: center;
     text-align: center;
 }
-
 .web {
     padding: 50px;
 }
-
 .web img {
     margin-bottom: 25px;
 }
-
 .java {
     padding: 50px;
 }
-
 .habit {
     padding: 50px;
 }
-
 .ecom {
     padding: 50px;
 }
-
 .plans-img {
     margin-bottom: 20px;
 }
-
 .plan-subtitle {
     margin-bottom: 20px;
     font-size: 25px;
     font-weight: 700;
     font-family: sans-serif;
 }
-
 .plan-description {
     margin-bottom: 20px;
     font-size: 20px;
@@ -140,7 +131,6 @@ ul li .fa-solid.fa-check{
 .gradient-div {
     height: 300px;
     width: 900px;
-    border: 1px solid black;
     margin-left: 250px;
     margin-right: 200px;
     margin-bottom: 100px;
@@ -159,6 +149,28 @@ ul li .fa-solid.fa-check{
     font-family: sans-serif;
     margin-bottom: 25px;
     color: white;
+}
+/* testimonial styles */
+.client-testimonial-div{
+margin-bottom: 30px;
+}
+.testimonial-header-title{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: sans-serif;
+    margin-bottom: 25px;
+    color: black;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.video{
+    display: flex;
+    gap: 24px;
+    justify-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 100px;
 }
 
 /* footer styles */
