@@ -150,11 +150,9 @@ ul li .fa-solid.fa-check{
     margin-bottom: 25px;
     color: white;
 }
-/* testimonial styles */
-.client-testimonial-div{
-margin-bottom: 30px;
-}
-.testimonial-header-title{
+/* motivation styles */
+
+.motivational-header-title{
     font-size: 30px;
     font-weight: 700;
     font-family: sans-serif;
@@ -164,7 +162,7 @@ margin-bottom: 30px;
     text-align: center;
 }
 
-.video{
+.motivational-video{
     display: flex;
     gap: 24px;
     justify-items: center;
